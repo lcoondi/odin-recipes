@@ -4,9 +4,11 @@
 
 
 #main {
+    font-size: 46px;
+    font-weight: 700;
     padding: 0;
     margin-left: 350px;
-    color: rgb(179, 36, 36);
+    color: rgb(146, 39, 39);
     font-weight: 700;
 }
 
@@ -25,6 +27,8 @@
 
 
 ol {
+    font-style: italic;
+    color: rgb(146, 39, 39);
     padding: 0;
     margin-left: 300px;
         
