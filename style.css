@@ -2,6 +2,9 @@
 
 }
 
+hr {
+    border-top: 3px solid rgb(146, 39, 39);
+}
 
 #main {
     font-size: 46px;

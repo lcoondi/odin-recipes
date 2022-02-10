@@ -1,28 +1,57 @@
 * {
 padding: 0;
-margin-left: 5px;
+margin-left: 10px;
 font-family:'Times New Roman', Times, serif
 }
 
-.main {
+hr {
+    border-top: 3px solid rgb(146, 39, 39);
+}
+
+h1 {
     padding: 0;
-    margin-left: 300px;
     color: rgb(146, 39, 39);
 }
 
+.sugar {
+    margin-left: 245px;
+}
+
 .mac {
-    margin-left: 500px;
+    margin-left: 280px;
 } 
 
+.meatloaf {
+    margin-left: 355px;
+}
+
 img {
-    margin-left: 350px;
+    margin-left: 300px;
+    margin-bottom: 20px;
     width: 300px;
     height: auto;
 
 }
 
-.rubric {
+h3 {
     color: rgb(146, 39, 39);
     font-weight: bold;
     font-style: oblique;
+    text-align: center;
+    margin-bottom: 30px;
 }
+
+ul {
+    list-style-type: none;
+}
+
+.ingredients {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+p {
+    text-indent: 30px;
+}
+
+
